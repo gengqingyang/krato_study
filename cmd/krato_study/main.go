@@ -12,7 +12,6 @@ import (
 
 	"krato_study/internal/conf"
 
-	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/config"
 	"github.com/go-kratos/kratos/v2/config/file"
 	"github.com/go-kratos/kratos/v2/log"
